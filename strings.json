@@ -1,0 +1,15 @@
+{
+  "back_button_description": "Go Back",
+  "image_description": "Chicken Burger",
+  "brand_name": "Cafe Solace",
+  "product_name": "Espresso",
+  "rating_text": "⭐ 4.9",
+  "description_text": "At cafe Solace, we believe in more than just coffee—we craft moments of peace, comfort, and connection.",
+  "signature_items_title": "Our Signature Items",
+  "toggle_label": "Whipped Cream",
+  "add_to_cart_button": "Add to Cart - Rs. 600",
+  "dialog_title": "Confirm Add to Cart",
+  "dialog_text": "Are you sure you want to add this item to your cart?",
+  "dialog_confirm": "Yes",
+  "dialog_cancel": "No"
+}
